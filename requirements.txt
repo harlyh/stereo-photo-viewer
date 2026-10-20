@@ -1,0 +1,6 @@
+torch>=2.0
+transformers>=4.45
+numpy>=1.24
+opencv-python>=4.5
+Pillow>=9.1
+PyChromecast>=14,<15
